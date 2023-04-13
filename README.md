@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<https://im4.ezgif.com/tmp/ezgif-4-03412d5595.gif/>
+<https://im4.ezgif.com/tmp/ezgif-4-03412d5595.gif>
 
 GIF created with **Kap**
 
